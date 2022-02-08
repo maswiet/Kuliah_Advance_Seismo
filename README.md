@@ -30,22 +30,24 @@ MFF 2921 (Mekanika Medium Kontinyu).
 
 ## Kompetensi yang diberikan
 
-Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah Seismologi ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya: G3 Ketrampilan Umum, G4/G5 Ketrampilan Khusus yang dijabarkan dalam 4 capaian pembelajaran, yaitu:
+Menurut [buku panduan akademik S2 Fisika FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah Seismologi ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya: G3 Ketrampilan Umum, G4/G5 Ketrampilan Khusus yang dijabarkan dalam 4 capaian pembelajaran, yaitu:
 1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
 2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
 3. **S3** - Mahasiswa dapat menghitung parameter sumber gempa bumi: waktu kejadian, posisi, kekuatan/energi gempa dan intesitas gempa.
 4. **S4** - Mahasiswa dapat menafsirkan jenis sumber gempabumi melalui penentuan mekanisme sumber menggunakan gelombang P dan proyeksi stereonet. 
 
 ## Silabus: 
-Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
-Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
-ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
-gempa.
-
+Gelombang Elastik dalam Bumi: Gelombang dan sumber gelombang: (Persamaan gelombang, rheologi, syarat batas dan syarat awal, penyelesaian fundamental, sumber gelombang, efek scattering, masalah gelombang seismik sebagai sistem linier Gelombang dalam dunia diskrit: klasifikasi persamaan parsial diferensial, domain fisis dan mesh komputasi, konsep 1D, 2D, 2,5D, dan 3D, pengaruh komputasi paralel terhadap seismologi.
+Pengenalan Metode Numerik dalam Seismologi: Metode Beda-Hingga (The Finite-Difference Method), Metode Pseudo-spektral (The Pseudospectral Method), metode Elemen Hingga (The Finite-Element Method), Metode spektral-elemen (The Spectral-Element Method), metode Volume-Hingga (The Finite-Volume Method), metode Galerkin kontinyu (The Discontinuous Galerkin Method).
+Aplikasi : Aplikasi dalam seismologi global dan geosains. Beberapa Ilustrasi problem seismologi dalam computer code. Tantangan seismologi dan geosains masa kini
+Buku Teks:
+1. Computational Seismology: A Practical Introduction by Heiner Igel, Oxford University Press 2016
+2. Quantitative Seismology: Theory and Methods, Volumes I and II by Keiiti Aki and Paul G. Richards. W. H. Freeman and Co., San
+Francisco
 ## Jadwal
 
-Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Jum'at, jam 13:30 s.d. 15:10 di  https://meet.google.com/lookup/a4ba4k4nyy?authuser=0&hs=179
+Jadwal kuliah dua kali dalam satu minggu, yaitu:
+- Selasa, jam 15:30 s.d. 17:10 di https://us02web.zoom.us/j/88964422774?pwd=SWNzQ095eWxnbXpJNjJUUCt6UjVqdz09
 
 Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
