@@ -14,8 +14,8 @@
 
 
 
-# Kuliah Seismologi (MFG3925)
-Kuliah Seismologi di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
+# Kuliah Seismologi Lanjut (MFF5930)
+Kuliah Seismologi di Program Studi Magister Fisika, Departemen Fisika UGM, 3 SKS
 
 ![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png) Kompetensi
 Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi, tentang gempa bumi dalam rangka memahami terminologi, dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang gempabumi. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa dan tindakan untuk mengurangi risiko bila terjadi gempa.
@@ -25,8 +25,6 @@ Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mend
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 Follow me on [![alt text][1.1]][1]
 
-## Prasyarat: 
-MFF 2921 (Mekanika Medium Kontinyu).
 
 ## Kompetensi yang diberikan
 
